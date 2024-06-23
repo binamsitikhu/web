@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas Example</title>
+    <style>
+        #dv1 {
+            border: 1px solid black;
+            padding: 10px;
+            display: inline-block;
+        }
+        #mycanvas {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <div id="dv1">
+        <canvas id="mycanvas" width="300" height="200"></canvas>
+    </div>
+</body>
+</html>
